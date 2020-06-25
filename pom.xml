@@ -11,7 +11,14 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <version.log4j2>2.13.3</version.log4j2>
+        <developer.connection/>
+
     </properties>
+
+    <scm>
+        <developerConnection>${developer.connection}</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
     <dependencies>
         <dependency>
