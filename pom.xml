@@ -4,7 +4,7 @@
 
     <groupId>de.bmw</groupId>
     <artifactId>LDF-Parser</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,7 +15,7 @@
 
     <scm>
         <developerConnection>${developer.connection}</developerConnection>
-        <tag>LDF-Parser-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
